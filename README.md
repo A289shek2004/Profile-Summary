@@ -1,9 +1,9 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/abhishekgpt10/abhishekgpt10/assets/your-image-id/header-banner.png" alt="Data Science Banner" width="100%" />
+  <img src="https://[github.com/abhishekgpt10](https://github.com/A289shek2004)/abhishekgpt10/assets/your-image-id/header-banner.png" alt="Data Science Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Harendra Gupta</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Data Analyst | ML Enthusiast</h3>
 
 <p align="center">
@@ -50,19 +50,19 @@
 | 📊 Sales Dashboard (Excel & BI) | KPIs on product-region-month sales with clean visuals |
 | 🗃️ SQLite Summary Automation | Automated sales summaries via Python + SQLite |
 
-🎯 Explore more in my 👉 [Pinned Repositories](https://github.com/abhishekgpt10?tab=repositories)
+🎯 Explore more in my 👉 [Pinned Repositories]([https://(https://github.com/A289shek2004)?tab=repositories)
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekgpt10&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgpt10&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A289shek2004&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A289shek2004&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekgpt10&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=A289shek2004&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 <p align="center">
   <a href="mailto:abhishekgpt10@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhishekgpt10"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/abhishekgpt10"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://github.com/A289shek2004"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" /></a>
 </p>
 
