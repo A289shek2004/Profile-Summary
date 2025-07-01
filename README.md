@@ -34,7 +34,7 @@
 <!-- R -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="24" height="24" alt="R"/>
 <!-- GitHub -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" height="24"/>
 <!-- Power BI -->
 <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="24" height="24" alt="Power BI"/>
 <!-- Tableau -->
