@@ -29,12 +29,16 @@
 ## 🧠 Tools & Technologies I Use
 
 ### 🖥️ Languages & IDEs  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg width="24" height="24" alt="Python"/)
-![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python"/>
+<!-- R -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="24" height="24" alt="R"/>
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub"/>
+<!-- Power BI -->
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="24" height="24" alt="Power BI"/>
+<!-- Tableau -->
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="24" height="24" alt="Tableau"/>
 
 ---
 
