@@ -29,7 +29,7 @@
 ## 🧠 Tools & Technologies I Use
 
 ### 🖥️ Languages & IDEs  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg width="24" height="24" alt="Python"/)
 ![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)
 ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
 ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
