@@ -44,12 +44,15 @@
 </div>
 ---
 
-### 📊 Data Science & BI  
-![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)
-![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
-![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
-![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
+### 📊 Data Science & BI
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24" height="24" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" height="24" alt="NumPy"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="24" height="24" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="24" height="24" alt="Tableau"/>
+</p>
 
 ---
 
