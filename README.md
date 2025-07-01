@@ -29,6 +29,8 @@
 ## 🧠 Tools & Technologies I Use
 
 ### 🖥️ Languages & IDEs  
+
+<div style="display: flex; gap: 10px; align-items: center; background-color: #0d1117; padding: 10px; border-radius: 10px;">
 <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python"/>
 <!-- R -->
@@ -39,7 +41,7 @@
 <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="24" height="24" alt="Power BI"/>
 <!-- Tableau -->
 <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="24" height="24" alt="Tableau"/>
-
+</div>
 ---
 
 ### 📊 Data Science & BI  
