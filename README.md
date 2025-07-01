@@ -29,6 +29,27 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,sql,jupyter,vscode,github,git,excel,tableau,powerbi,html" />
 </p>
+<!-- Container with icons used in Data Science -->
+<div style="display: flex; gap: 10px; align-items: center; background-color: #0d1117; padding: 10px; border-radius: 10px;">
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+  <!-- R -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+</div>
 
 - 📊 Data Analysis: pandas, numpy, matplotlib, seaborn  
 - 🤖 Machine Learning: scikit-learn, statsmodels  
