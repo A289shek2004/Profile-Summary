@@ -24,55 +24,20 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
 
-## 🧠 Tools & Technologies I Use
-
-### 🖥️ Languages & IDEs  
-
-<div style="display: flex; gap: 10px; align-items: center; background-color: #0d1117; padding: 10px; border-radius: 10px;">
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python"/>
-<!-- R -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="24" height="24" alt="R"/>
-<!-- GitHub -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" height="24"/>
-<!-- Power BI -->
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="24" height="24" alt="Power BI"/>
-<!-- Tableau -->
-<img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="24" height="24" alt="Tableau"/>
-</div>
----
-
-### 📊 Data Science & BI
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24" height="24" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" height="24" alt="NumPy"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="24" height="24" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="24" height="24" alt="Tableau"/>
-</p>
+## 🛠️ Tools & Technologies I Use
+🖥️ Programming Languages & IDEs
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="24" height="24" alt="R"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git"/> </p>
+📊 Data Science & BI
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24" height="24" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" height="24" alt="NumPy"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="24" height="24" alt="Power BI"/> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="24" height="24" alt="Tableau"/> </p>
+🤖 Machine Learning & Deep Learning
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="24" height="24" alt="Scikit Learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24" height="24" alt="TensorFlow"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="24" height="24" alt="PyTorch"/> </p>
+👁️ Computer Vision & AI
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="24" height="24" alt="OpenCV"/> </p>
+📈 Data Visualization
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="24" height="24" alt="Matplotlib"/> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="24" alt="Seaborn"/> </p>
 
 ---
-
-### 🤖 Machine Learning / Deep Learning  
-![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
-![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)
-![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg)
-
----
-
-### 🧠 AI & CV  
-![OpenCV](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg)
-
----
-
-### 📈 Data Viz  
-![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
-![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
-
-
 - 📊 Data Analysis: pandas, numpy, matplotlib, seaborn  
 - 🤖 Machine Learning: scikit-learn, statsmodels  
 - 📈 BI Tools: Power BI, Excel Dashboards  
