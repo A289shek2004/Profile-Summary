@@ -24,6 +24,7 @@ const Skills = () => {
         { name: 'Matplotlib', level: 85 },
         { name: 'Seaborn', level: 85 },
         { name: 'Scikit-learn', level: 80 },
+        { name: 'Streamlit', level: 70 },
         { name: 'OpenCV', level: 70 },
       ]
     },
@@ -55,7 +56,7 @@ const Skills = () => {
       skills: [
         { name: 'MySQL', level: 85 },
         { name: 'SQLite', level: 80 },
-        { name: 'PostgreSQL', level: 70 },
+        { name: 'PostgreSQL', level: 80 },
       ]
     },
     {

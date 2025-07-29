@@ -60,7 +60,7 @@ const Hero = () => {
               </button>
               
               <a
-                href="https://github.com/A289shek2004/Profile-Summary/raw/main/%F0%9F%93%84%20Abhishek%20Kumar%20Gupta.pdf"
+                href="\Abhishek kumar gupta resume.pdf"
                 className="flex items-center justify-center space-x-2 px-8 py-4 border-2 border-teal-600 text-teal-600 dark:text-teal-400 dark:border-teal-400 rounded-xl hover:bg-teal-600 hover:text-white dark:hover:bg-teal-400 dark:hover:text-gray-900 transition-all duration-300 transform hover:scale-105"
               >
                 <Download size={20} />

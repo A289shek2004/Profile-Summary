@@ -79,7 +79,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://github.com/A289shek2004/Profile-Summary/raw/main/%F0%9F%93%84%20Abhishek%20Kumar%20Gupta.pdf"
+                  href="\Abhishek kumar gupta resume.pdf"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
                   Download Resume

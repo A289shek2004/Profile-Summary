@@ -290,7 +290,7 @@ const Contact = () => {
                   Quick Email
                 </a>
                 <a
-                  href="https://github.com/A289shek2004/Profile-Summary/raw/main/%F0%9F%93%84%20Abhishek%20Kumar%20Gupta.pdf"
+                  href="\Abhishek kumar gupta resume.pdf"
                   className="flex-1 bg-white/20 hover:bg-white/30 text-center py-2 rounded-lg transition-colors text-sm font-medium"
                 >
                   Download Resume

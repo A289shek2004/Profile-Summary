@@ -81,7 +81,7 @@ const Header = () => {
               {isDark ? <Sun size={20} /> : <Moon size={20} />}
             </button>
             <a
-              href="https://github.com/A289shek2004/Profile-Summary/raw/main/%F0%9F%93%84%20Abhishek%20Kumar%20Gupta.pdf"
+              href="\Abhishek kumar gupta resume.pdf"
               className="flex items-center space-x-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
             >
               <Download size={16} />
@@ -128,7 +128,7 @@ const Header = () => {
               ))}
               <div className="flex space-x-2 px-4 pt-2">
                 <a
-                  href="https://github.com/A289shek2004/Profile-Summary/raw/main/%F0%9F%93%84%20Abhishek%20Kumar%20Gupta.pdf"
+                  href="\Abhishek kumar gupta resume.pdf"
                   className="flex-1 flex items-center justify-center space-x-2 px-3 py-2 bg-blue-600 text-white rounded-lg text-sm"
                 >
                   <Download size={16} />

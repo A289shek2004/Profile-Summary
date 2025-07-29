@@ -4,18 +4,18 @@ import { ExternalLink, Calendar, Award, CheckCircle } from 'lucide-react';
 const Certifications = () => {
   const certifications = [
     {
-      title: 'Python for Data Science and Machine Learning Bootcamp',
-      issuer: 'Udemy',
-      date: '2024',
-      credentialId: 'UC-xxxxx',
+      title: 'Data Science with Python',
+      issuer: 'Cognitive Class',
+      date: 'July,2025',
+      credentialId: 'DA0101EN',
       skills: ['Python', 'Pandas', 'NumPy', 'Scikit-learn', 'Machine Learning'],
       verified: true,
       logo: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=64&h=64&fit=crop',
       color: 'blue'
     },
     {
-      title: 'Data Analysis with Power BI',
-      issuer: 'Microsoft',
+      title: 'Data Analysis with Python',
+      issuer: 'Cognitive Class',
       date: '2024',
       credentialId: 'MS-xxxxx',
       skills: ['Power BI', 'DAX', 'Data Modeling', 'Visualization'],
@@ -25,8 +25,8 @@ const Certifications = () => {
     },
     {
       title: 'SQL for Data Science',
-      issuer: 'Coursera',
-      date: '2023',
+      issuer: 'SimpliLearn',
+      date: '2024',
       credentialId: 'COURSERA-xxxxx',
       skills: ['SQL', 'Database Management', 'Data Querying'],
       verified: true,
@@ -82,7 +82,7 @@ const Certifications = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4 font-poppins">
-            Certifications & Learning
+            Online Courses Completion & Certifications
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
             Continuous learning and professional development in data science and analytics
@@ -202,14 +202,14 @@ const Certifications = () => {
             </h3>
             <p className="text-blue-100 mb-6 max-w-2xl mx-auto">
               Always expanding my knowledge base and staying updated with the latest trends 
-              in data science, machine learning, and analytics.
+              in analytics, data science, machine learning, and Artificial Intelligence.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <span className="px-4 py-2 bg-white/20 rounded-lg text-sm font-medium">
-                Currently Learning: Deep Learning
+                Currently Learning: Advance Data Engineriner and ML-DL 
               </span>
               <span className="px-4 py-2 bg-white/20 rounded-lg text-sm font-medium">
-                Next: MLOps
+                Next: Generative AI and LLMs
               </span>
             </div>
           </div>

@@ -5,6 +5,17 @@ const Experience = () => {
   const experiences = [
     
     {
+      company: 'Upskill Campus and UniConverge Technologies Pvt. Ltd',
+      role: 'Data Science And Machine Learning Intern',
+      duration: '6 weeks',
+      Location: 'Noida, UP, India',
+      Mode: 'Remote',
+      description: 'Conducted comprehensive EDA and machine learning on various datasets, created interactive visual dashboards, and collaborated with mentors on key performance reporting metrics.',
+      technologies: ['Python', 'EDA', 'Visualization', 'Statistical Analysis'],
+      logo: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=64&h=64&fit=crop&crop=center',
+      color: 'purple'
+    },
+    {
       company: 'EvoAstra PVT Ltd',
       role: 'Data Science Intern',
       duration: '3 Month',
@@ -16,7 +27,7 @@ const Experience = () => {
       color: 'teal'
     },
     {
-      company: 'Elevate Labs Intern',
+      company: 'Elevate Labs PVT Ltd',
       role: 'Data Analyst Intern',
       duration: '1 Month',
       Location: 'Mumbai, India',

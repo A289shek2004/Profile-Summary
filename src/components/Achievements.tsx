@@ -24,20 +24,20 @@ const Achievements = () => {
       color: 'purple',
       category: 'Teaching'
     },
-    {
-      title: 'Tech Event Speaker',
-      description: 'Active participation and speaking at various tech events, sharing knowledge about data science and machine learning.',
-      icon: Mic,
-      color: 'orange',
-      category: 'Speaking'
-    },
-    {
-      title: 'Community Mentorship',
-      description: 'Mentoring aspiring data scientists and helping them navigate their learning journey in analytics and ML.',
-      icon: Users,
-      color: 'green',
-      category: 'Mentoring'
-    },
+    // {
+    //   title: 'Tech Event Speaker',
+    //   description: 'Active participation and speaking at various tech events, sharing knowledge about data science and machine learning.',
+    //   icon: Mic,
+    //   color: 'orange',
+    //   category: 'Speaking'
+    // },
+    // {
+    //   title: 'Community Mentorship',
+    //   description: 'Mentoring aspiring data scientists and helping them navigate their learning journey in analytics and ML.',
+    //   icon: Users,
+    //   color: 'green',
+    //   category: 'Mentoring'
+    // },
     {
       title: 'Academic Excellence',
       description: 'Consistently maintaining high academic performance while actively contributing to practical projects and research.',
