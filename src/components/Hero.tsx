@@ -107,8 +107,8 @@ const Hero = () => {
               <div className="w-80 h-80 rounded-full bg-gradient-to-r from-blue-400 to-teal-400 p-1 animate-spin-slow">
                 <div className="w-full h-full rounded-full bg-white dark:bg-gray-900 p-4">
                   <img
-                    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-                    alt="Data Science Animation"
+                    src="https://raw.githubusercontent.com/A289shek2004/Profile-Summary/main/Abhi%20Portfolio%20Web%20Project/src/assets/images/hero.png"
+                    alt="Data Science Avatar"
                     className="w-full h-full object-cover rounded-full scale-110"
                   />
                 </div>
